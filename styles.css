@@ -3,15 +3,17 @@ body {
     font-family: sans-serif;
     padding: 20px;
   }
-
+  
   h1 {
     font-size: 40px;
-}
-
-h2 {
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+  
+  h2 {
     font-size: 30px;
-}
-
+  }
+  
   .established {
     font-style: italic;
   }
@@ -27,6 +29,27 @@ h2 {
     margin-right: auto;
     padding: 20px;
     max-width: 500px;
+  }
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+}
+  
+  hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+  }
+  
+  .bottom-line {
+    margin-top: 25px;
+  }
+  
+  h1, h2 {
+    font-family: Impact, serif;
   }
   
   .item p {
@@ -45,16 +68,29 @@ h2 {
     text-align: right;
     width: 25%;
   }
-
-  h1, h2 {
-    font-family: Impact, serif;
+  
+  /* FOOTER */
+  
+  footer {
+    font-size: 14px;
   }
-
-  hr {
-    height: 2px;
-    border-color: #964b00;
+  
+  .address {
+    margin-bottom: 5px;
   }
-
-  .bottom-line {
-    margin-top: 25px;
+  
+  a {
+    color: black;
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: brown;
+  }
+  
+  a:active {
+    color: brown;
   }
