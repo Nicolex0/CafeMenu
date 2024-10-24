@@ -4,7 +4,6 @@
 This project is aimed at learning and practicing CSS by designing a menu page for a cafe website. The focus is on creating an attractive, responsive layout that showcases the cafe's offerings effectively.
 
 ## Features
-- **Responsive Design**: The menu adjusts to various screen sizes for optimal viewing on desktops, tablets, and mobile devices.
 - **Styling Techniques**: Utilizes modern CSS techniques, including Flexbox and Grid, for layout design.
 - **Hover Effects**: Interactive elements with hover effects for a better user experience.
 - **Typography**: Thoughtful use of fonts to enhance readability and aesthetic appeal.
